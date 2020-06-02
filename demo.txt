@@ -1,2 +1,1 @@
-quang ga
-quang oc cho
+commit GitGraken
